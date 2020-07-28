@@ -24,7 +24,7 @@ I'm a 3rd year software engineering undergraduate 🎓  at Sri Lanka Institute o
 
 - 💬 Ask me about Java based technolgies,ReactJs Iam happy to help
 
-- 📫 How to reach me: **hasiyadahanayaken@gmail.com**
+- 📫 How to reach me: **hasiyadahanayake@gmail.com**
 
 - 📝[Developer Story](https://stackoverflow.com/story/hasindudahanayake)
 
