@@ -2,8 +2,8 @@
 
 
 
-<h3 align="center">An enthuastic🤓 developer<a href=https://stackoverflow.com/users/12547954/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Hasindu1" height="20" width="20" /></a>
-<a href=https://meta.stackexchange.com/users/751179/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg alt="Hasindu1" height="20" width="20" /></a> </h3>
+<h3 align="center"><a href=https://stackoverflow.com/users/12547954/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Hasindu1" height="20" width="20" /></a>
+<a href=https://meta.stackexchange.com/users/751179/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg alt="Hasindu1" height="20" width="20" /></a>  An enthuastic🤓 developer </h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
