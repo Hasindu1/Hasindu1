@@ -19,7 +19,7 @@
 
 - 📝[Developer Story](https://stackoverflow.com/story/hasindudahanayake)
 
-- ⚡ Fun fact: Huge fan of Chess and Cricket like to play Cricket and Chess in leisure time ,play with me online @ Chess.com just invite me I'll happy to accept **https://www.chess.com/member/hasindu9898**
+- ⚡ Fun fact: Huge fan of Chess and Cricket.Like to play Cricket and Chess in leisure time ,play with me online @ Chess.com just invite me I'll happy to accept **https://www.chess.com/member/hasindu9898**
 
 
 
