@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"><a href=https://stackoverflow.com/users/12547954/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Hasindu1" height="20" width="20" />
+<h3 align="center"><a href=https://stackoverflow.com/users/12547954/hasindu-dahanayake?tab=profile target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Hasindu1" height="20" width="20" />
 <a href=https://meta.stackexchange.com/users/751179/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg alt="Hasindu1" height="20" width="20" /></a>  An 
 enthusiastic🤓 developer </h3>
 
