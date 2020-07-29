@@ -29,4 +29,4 @@ I'm a 3rd-year software engineering undergraduate 🎓  at Sri Lanka Institute o
 
 - ⚡ Fun fact: Huge fan of Chess and Cricket.Like to play Cricket and Chess in leisure time ,play with me online @ Chess.com just invite me I'll happy to accept **https://www.chess.com/member/hasindu9898**
 
-- <a href="https://stackexchange.com/users/17323025"><img src="https://stackexchange.com/users/flair/17323025.png" width="208" height="58" alt="profile for Hasindu Dahanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hasindu Dahanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites?theme=dark"></a>
+- <a href="https://stackexchange.com/users/17323025"><img src="https://stackexchange.com/users/flair/17323025.png?theme=dark" width="208" height="58" alt="profile for Hasindu Dahanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hasindu Dahanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
