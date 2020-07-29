@@ -29,5 +29,5 @@ I'm a 3rd-year software engineering undergraduate 🎓  at Sri Lanka Institute o
 
 - ⚡ Fun fact: Huge fan of Chess and Cricket.Like to play Cricket and Chess in leisure time ,play with me online @ Chess.com just invite me I'll happy to accept **https://www.chess.com/member/hasindu9898**
 
-
+<a href="https://stackoverflow.com/users/12547954/hasindu-dahanayake"><img src="https://stackoverflow.com/users/flair/12547954.png" width="208" height="58" alt="profile for Hasindu Dahanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hasindu Dahanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
