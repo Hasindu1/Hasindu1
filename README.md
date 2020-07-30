@@ -11,7 +11,7 @@ enthusiastic🤓 developer </h3>
 I'm a 3rd-year software engineering undergraduate 🎓  at Sri Lanka Institute of Information Technology. As a self-motivated learner and a developer, I always contribute to online communities like GitHub, Stack Overflow, and Meta Stack Exchange to share and enhance my knowledge 💡. I love to explore and learn new technologies ✨. 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 ### Talking about Personal Stuffs:
 
