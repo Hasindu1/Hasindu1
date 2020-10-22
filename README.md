@@ -29,4 +29,4 @@ I'm a 3rd-year software engineering undergraduate 🎓  at Sri Lanka Institute o
 
 - ⚡ Fun fact: Huge fan of Chess and Cricket.Like to play Cricket and Chess in leisure time ,play with me online @ Chess.com just invite me I'll happy to accept **https://www.chess.com/member/hasindu9898**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivinduchamath)](https://github.com/rivinduchamath/github-readme-stats) ![Rivindu's github stats](https://github-readme-stats.vercel.app/api?username=rivinduchamath&show_icons=true) <Br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasindu1)](https://github.com/hasindu1/github-readme-stats) ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindu1&show_icons=true) <Br>
