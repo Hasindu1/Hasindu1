@@ -12,7 +12,7 @@ I'm a final year(4th year) software engineering undergraduate 🎓  at Sri Lanka
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on online-fashion-store-react-springboot-project
+- 🔭 I’m currently working on EPIC Digital Banking Platform Project.
 
 - 🌱 I’m currently learning Flutter
 
