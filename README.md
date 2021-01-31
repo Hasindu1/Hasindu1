@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">An enthusiastic🤓 developer </h3>
+<h3 align="center">An enthusiastic🤓 Software Developer </h3>
 
 
 ### Glad to see you here! 🤩 
