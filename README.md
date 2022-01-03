@@ -20,7 +20,7 @@ I'm a final year(4th year) software engineering undergraduate 🎓  at Sri Lanka
 
 - 💬 Ask me about Java based technolgies,ReactJs Iam happy to help
 
-- 📫 How to reach me: **hasindudahanayake1998@gmail.com**
+- 📫 How to reach me: **hasiyadahanayake@gmail.com**
 
 - 💬 Online Communities:  <a href="https://stackoverflow.com/users/12547954/hasindu-dahanayake?tab=profile"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="Hasindu1" height="20" width="20" /> 
 <a href=https://meta.stackexchange.com/users/751179/hasindu-dahanayake target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg alt="Hasindu1" height="20" width="20" /></a> <a href=https://www.hackerrank.com/Hasindu1998><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="Hasindu1998" height="20" width="20" /></a>
