@@ -7,16 +7,12 @@
 
 ### Glad to see you here! 🤩 
 
-I'm a final year(4th year) software engineering undergraduate 🎓  at Sri Lanka Institute of Information Technology. As a self-motivated learner and a developer, I always contribute to online communities like GitHub, Stack Overflow,Meta Stack Exchange and HackerRank to share and enhance my knowledge 💡. I love to explore and learn new technologies ✨. 
+I'm a software engineering postgraduate 🎓  at Sri Lanka Institute of Information Technology. As a self-motivated learner and a developer, I always contribute to online communities like GitHub, Stack Overflow,Meta Stack Exchange and HackerRank to share and enhance my knowledge 💡. I love to explore and learn new technologies ✨. 
 
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on EPIC Digital Banking Platform Project.
-
-- 🌱 I’m currently learning Flutter
-
-- 🤔 I’m looking for help with Dart and Flutter
+- 🔭 I’m currently working at Codegen Internation as a Software Engineer.
 
 - 💬 Ask me about Java based technolgies,ReactJs Iam happy to help
 
