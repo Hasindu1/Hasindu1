@@ -12,7 +12,7 @@ I'm a software engineering postgraduate 🎓  at Sri Lanka Institute of Informat
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working at Codegen Internation as a Software Engineer.
+- 🔭 I’m currently working as a Software Engineer.
 
 - 💬 Ask me about Java based technolgies,ReactJs Iam happy to help
 
